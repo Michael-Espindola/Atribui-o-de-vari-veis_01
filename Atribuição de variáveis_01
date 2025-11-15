@@ -1,0 +1,5 @@
+A=3 #Atribuir valor 3 á variável A
+B=5 #Atribuir valor 5 á variavel B
+Resultado= (2*A)*(3*B) # Atribuir como valor o resultado da operação 2Ax3B à variável Resultado 
+print(" O Resultado de 2Ax3B é", Resultado) # imprimir na tela o resultado da operação 2Ax3B, colocando o texto entre aspas "" como mensagem que vai aparecer e chamando a variável Resultado pelo nome
+..
